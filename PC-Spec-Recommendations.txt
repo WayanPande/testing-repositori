@@ -9,3 +9,6 @@ GPU : - Nvidia RTX 2080ti/Super (for HighEnd)
 Cooler : Aio 360/280 / Really Good Air Cooler (Maybe from Noctua or Something)
 Case : Dunno Yet
 Storage : SSD w/ HDD
+
+
+*Semoga saya bisa membangun sistem tersebut suatu saat nanti...
