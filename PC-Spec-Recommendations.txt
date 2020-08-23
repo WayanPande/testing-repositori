@@ -6,5 +6,6 @@ Ram : Atleast 16GB / DDR4 3600Mhz (Gskill TridentZ Neo/Royal)
 GPU : - Nvidia RTX 2080ti/Super (for HighEnd)
       - Nvidia RTX 2060Super/Non (for MidEnd)
       - Nvidia GTX 1660Super / GTX 1650Super (for LowEnd)
-PSU : Seasonic prime titanium 650w 
+PSU : Seasonic prime titanium 650w
+Cooler : Noctua DH-15 (Air Cooler) / AIO 360/280 (Not Sure What Model)
 Case : NZXT H10/?
