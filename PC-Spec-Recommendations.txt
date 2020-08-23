@@ -1,8 +1,11 @@
 PC Spec
 
-Proccesor : AMD Ryzen 5 3600 / Intel Core i5 10600k
-Motherboard : B550 (for AMD) / Z490 (for Intel)
-Ram : Atleast 16GB / DDR4 3600Mhz 
+Proccesor : AMD Ryzen 5 3600 / AMD Ryzen 9 3950X
+Motherboard : Gigabyte B550 Aorus Master / ROG Crosshair VIII HERO (X570) 
+Ram : Atleast 16GB / DDR4 3600Mhz (Gskill TridentZ Neo/Royal)
 GPU : - Nvidia RTX 2080ti/Super (for HighEnd)
       - Nvidia RTX 2060Super/Non (for MidEnd)
       - Nvidia GTX 1660Super / GTX 1650Super (for LowEnd)
+Cooler: NZXT Kraken Z63 (AIO) / Noctua DH-15 (Air Cooler)
+Case : NZXT H510 White
+PSU : Seasonic Prime 1000w
