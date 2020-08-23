@@ -1,8 +1,10 @@
-PC Spec
+PC Spec Intel
 
-Proccesor : AMD Ryzen 5 3600 / Intel Core i5 10600k
-Motherboard : B550 (for AMD) / Z490 (for Intel)
-Ram : Atleast 16GB / DDR4 3600Mhz 
+Proccesor : Intel Core i5 10600k / Intel Core i9 10900k
+Motherboard : MSI MEG Z490 GodLike
+Ram : Atleast 16GB / DDR4 3600Mhz (Gskill TridentZ Neo/Royal)
 GPU : - Nvidia RTX 2080ti/Super (for HighEnd)
       - Nvidia RTX 2060Super/Non (for MidEnd)
       - Nvidia GTX 1660Super / GTX 1650Super (for LowEnd)
+PSU : Seasonic prime titanium 650w 
+Case : NZXT H10/?
