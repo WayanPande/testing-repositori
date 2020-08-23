@@ -3,6 +3,8 @@ Rencana Konten
 - Javascript
   * es6
   * framework
+   ^vue
   * build
 - PHP
+ * Laravel
 - CSS
