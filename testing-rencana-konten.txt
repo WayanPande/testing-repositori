@@ -1,4 +1,6 @@
 Rencana Konten
 
 - Javascript
+  * es6
+  * framework
 - PHP
