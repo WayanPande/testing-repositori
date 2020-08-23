@@ -6,3 +6,6 @@ Ram : Atleast 16GB / DDR4 3600Mhz
 GPU : - Nvidia RTX 2080ti/Super (for HighEnd)
       - Nvidia RTX 2060Super/Non (for MidEnd)
       - Nvidia GTX 1660Super / GTX 1650Super (for LowEnd)
+Cooler : Aio 360/280 / Really Good Air Cooler (Maybe from Noctua or Something)
+Case : Dunno Yet
+Storage : SSD w/ HDD
