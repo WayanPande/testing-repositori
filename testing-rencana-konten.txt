@@ -3,6 +3,8 @@ Rencana Konten
 - Javascript
   * es6
   * framework
+   ^angular
+   ^react
   * build
 - PHP
-- CSS
+  ^laravel
