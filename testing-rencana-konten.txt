@@ -3,8 +3,12 @@ Rencana Konten
 - Javascript
   * es6
   * framework
-   ^angular
-   ^react
   * build
 - PHP
   ^laravel
+   ^vue
+  * build
+- PHP
+ * Laravel
+ * Build Website
+- CSS
